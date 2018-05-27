@@ -1,0 +1,15 @@
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\ExcelToDatabase.exe.config
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\ExcelToDatabase.exe
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\ExcelToDatabase.pdb
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.csprojResolveAssemblyReference.cache
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.Form1.resources
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.Properties.Resources.resources
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.csproj.GenerateResource.Cache
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.exe
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.pdb
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\Interop.Office.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\obj\Debug\ExcelToDatabase.csproj.ResolveComReference.cache
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\BusStations.Core.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\EntityFramework.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\BusStations.Core.pdb
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\ExcelToDatabase\bin\Debug\EntityFramework.xml

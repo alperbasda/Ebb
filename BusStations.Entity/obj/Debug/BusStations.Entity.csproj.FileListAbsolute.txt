@@ -1,0 +1,16 @@
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\BusStations.Entity.dll.config
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\BusStations.Entity.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\BusStations.Entity.pdb
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\BusStations.Core.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\EntityFramework.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\BusStations.Core.pdb
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\EntityFramework.xml
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.csprojResolveAssemblyReference.cache
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.dll
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.pdb
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.Migrations.first.resources
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.csproj.GenerateResource.Cache
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.Migrations.Direction.resources
+c:\users\alper\documents\visual studio 2015\Projects\BusStatations\BusStations.Entity\obj\Debug\BusStations.Entity.Migrations.ReelDirection.resources

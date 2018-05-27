@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8c7f39fc-b3ac-4409-898b-adf01a52c5af" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63493/JsonService/UpdateMonitor.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UpdateMonitor.xsd" MetadataType="Schema" ID="211fcb55-9ef5-48f6-bc43-5be00530d1db" SourceId="1" SourceUrl="http://localhost:63493/JsonService/UpdateMonitor.svc?xsd=xsd0" />
+    <MetadataFile FileName="UpdateMonitor1.xsd" MetadataType="Schema" ID="c46d8715-14f7-472c-b056-64474e0fc76f" SourceId="1" SourceUrl="http://localhost:63493/JsonService/UpdateMonitor.svc?xsd=xsd1" />
+    <MetadataFile FileName="UpdateMonitor.wsdl" MetadataType="Wsdl" ID="eb6951b7-17cb-4892-8c88-c9eaf041de9e" SourceId="1" SourceUrl="http://localhost:63493/JsonService/UpdateMonitor.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

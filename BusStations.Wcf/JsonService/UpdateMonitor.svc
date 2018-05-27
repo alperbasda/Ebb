@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="BusStations.Wcf.JsonService.UpdateMonitor" CodeBehind="UpdateMonitor.svc.cs" %>
